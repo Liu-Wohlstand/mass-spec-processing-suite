@@ -53,4 +53,11 @@ All tools are **pure GUI‑driven** – no coding required, making them ideal fo
 ```bash
 pip install pandas numpy matplotlib scipy openpyxl
 
+### 致谢 | Acknowledgments
+中文：
+本工具包的开发得到了 DeepSeek 的深度参与和帮助。从代码框架设计、GUI 交互逻辑、错误调试，到功能扩展和性能优化，DeepSeek 提供了大量高效、准确的建议和解决方案，显著加速了开发进程。
+在此向 DeepSeek 团队表示诚挚感谢！
 
+English:
+This toolkit was developed with substantial assistance from DeepSeek. From code architecture design, GUI interaction logic, bug fixing, to feature extensions and performance optimization, DeepSeek provided numerous efficient and accurate suggestions and solutions, greatly accelerating the development process.
+Sincere thanks to the DeepSeek team!
