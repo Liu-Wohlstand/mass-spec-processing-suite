@@ -52,6 +52,7 @@ All tools are **pure GUI‑driven** – no coding required, making them ideal fo
 ### 安装依赖 | Install Dependencies
 ```bash
 pip install pandas numpy matplotlib scipy openpyxl
+```
 
 ### 致谢 | Acknowledgments
 中文：
